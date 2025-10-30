@@ -11,7 +11,7 @@
 - 📫 Reach me at **<a href="mailto:amriprak8@gmail.com">amriprak8@gmail.com</a>**
 - 🔗 LinkedIn: **<a href="https://www.linkedin.com/in/amrithaprakash" target="_blank">linkedin.com/in/amrithaprakash</a>**
 - 💻 GitHub: **<a href="https://github.com/amritha-prakash" target="_blank">github.com/amritha-prakash</a>**
-- ⚡ Fun fact: I enjoy **photography, and playing chess** 🎥📊
+- ⚡ Fun fact: I enjoy **photography, and playing chess** 🎥♔
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
