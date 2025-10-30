@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Amritha Prakash  
+                                                                                       # 👋 Hi, I'm Amritha Prakash  
 
 🎓 **M.S. in Applied Data Science | Indiana University (2025)**  
 💡 **Data Engineer | Data Scientist | AI Enthusiast**
