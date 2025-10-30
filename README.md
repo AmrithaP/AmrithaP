@@ -144,7 +144,7 @@
 </table>
 
 <br/>
-<p>
+<!-- <p>
   <img src="https://github-readme-stats.vercel.app/api?username=amritha-prakash&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=amritha-prakash&theme=dark&hide_border=false" />
@@ -155,4 +155,4 @@
 ---
 <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=amritha-prakash&icon=0&color=0" />
-</a>
+</a> -->
