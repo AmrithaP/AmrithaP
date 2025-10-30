@@ -5,7 +5,6 @@
 💡 Data Engineer • Data Scientist • AI Enthusiast  
 
 </div>
----
 
 ### 🔭 What I’m Working On
 - Building **data pipelines** and **dashboards** that turn raw data into insights  
