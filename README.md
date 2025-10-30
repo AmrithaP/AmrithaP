@@ -1,8 +1,10 @@
-                                                                                       # 👋 Hi, I'm Amritha Prakash  
+  <div align="center">
 
-🎓 **M.S. in Applied Data Science | Indiana University (2025)**  
-💡 **Data Engineer | Data Scientist | AI Enthusiast**
+# 👋 Hi, I'm Amritha Prakash  
+🎓 M.S. in Applied Data Science | Indiana University  
+💡 Data Engineer • Data Scientist • AI Enthusiast  
 
+</div>
 ---
 
 ### 🔭 What I’m Working On
