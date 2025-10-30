@@ -11,7 +11,7 @@
 - 📫 Reach me at **<a href="mailto:amriprak8@gmail.com">amriprak8@gmail.com</a>**
 - 🔗 LinkedIn: **<a href="https://www.linkedin.com/in/amrithaprakash" target="_blank">linkedin.com/in/amrithaprakash</a>**
 - 💻 GitHub: **<a href="https://github.com/amritha-prakash" target="_blank">github.com/amritha-prakash</a>**
-- ⚡ Fun fact: I enjoy **video editing, photography, and creative data visualization** 🎥📊
+- ⚡ Fun fact: I enjoy ** photography, and playing chess** 🎥📊
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -23,6 +23,46 @@
   </a>
 </p>
 
+<h3>Skills:</h3>
+
+<table>
+  <tr>
+    <td valign="top" width="25%">
+      <h4 align="center">Data Engineering & Cloud</h4>
+      <a href="https://aws.amazon.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" width="40" height="40"/></a>
+      <a href="https://azure.microsoft.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" width="40" height="40"/></a>
+      <a href="https://www.databricks.com/" target="_blank"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/databricks.svg" width="40" height="40"/></a>
+      <a href="https://www.docker.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40"/></a>
+      <a href="https://www.getdbt.com/" target="_blank"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/dbt.svg" width="40" height="40"/></a>
+      <a href="https://airbyte.com" target="_blank"><img src="https://avatars.githubusercontent.com/u/65667652?s=200&v=4" width="40" height="40"/></a>
+    </td>
+
+    <td valign="top" width="25%">
+      <h4 align="center">ML / AI</h4>
+      <a href="https://scikit-learn.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40"/></a>
+      <a href="https://www.tensorflow.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="40" height="40"/></a>
+      <a href="https://pytorch.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40" height="40"/></a>
+      <a href="https://huggingface.co" target="_blank"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/huggingface.svg" width="40" height="40"/></a>
+    </td>
+
+    <td valign="top" width="25%">
+      <h4 align="center">Databases & Warehouses</h4>
+      <a href="https://www.postgresql.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" height="40"/></a>
+      <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/></a>
+      <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/></a>
+      <a href="https://aws.amazon.com/redshift/" target="_blank"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/amazonredshift.svg" width="40" height="40"/></a>
+    </td>
+
+    <td valign="top" width="25%">
+      <h4 align="center">Testing & Tools</h4>
+      <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/></a>
+      <a href="https://www.postman.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40"/></a>
+      <a href="https://jupyter.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" width="40" height="40"/></a>
+      <a href="https://code.visualstudio.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40" height="40"/></a>
+      <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/></a>
+    </td>
+  </tr>
+</table>
 
 
 <br/>
