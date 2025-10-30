@@ -61,7 +61,7 @@
 
 ### 🌐 Portfolio & Contact  
 
-- 📂 **Portfolio:** *Coming soon!*  
+- 📂 **Portfolio:** [portfolio](https://amrithap.github.io/ap/)
 - 💼 **LinkedIn:** [linkedin.com/in/amrithaprakash](https://www.linkedin.com/in/amrithaprakash)  
 - 📫 **Email:** [amriprak8@gmail.com](mailto:amriprak8@gmail.com)  
 - 💻 **GitHub:** [github.com/AmrithaP](https://github.com/AmrithaP)
