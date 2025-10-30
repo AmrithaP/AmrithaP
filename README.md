@@ -6,6 +6,8 @@
 
 </div>
 
+---
+
 ### 🔭 What I’m Working On
 - Building **data pipelines** and **dashboards** that turn raw data into insights  
 - Exploring **end-to-end data engineering** using **Airbyte**, **PostgreSQL**, **AWS**, and **Databricks**  
