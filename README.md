@@ -6,7 +6,7 @@
 - 🔭 I build and maintain **end-to-end software systems** that support real operational workflows (data ingestion, validation, storage, and visualization).
 - 🛠️ Experienced in designing **reliable internal tools**, dashboards, and backend services used by engineers and operations teams.
 - 🌱 Currently learning **system reliability, CI/CD, data validation, and production-grade workflows** (Databricks, dbt, SQL optimization).
-- 💡 Recent: Built a real-time data portal using **Python + React + Plotly**, visualizing 1M+ data points for King County engineers to predict overflow events 30% faster.
+- 💡 Recent: Built a real-time data portal using **Python + React + Plotly**, visualizing 1M+ data points for King County engineers to monitor events faster.
 - 📫 Reach me at **<a href="mailto:amriprak8@gmail.com">amriprak8@gmail.com</a>**
 - 🔗 LinkedIn: **<a href="https://www.linkedin.com/in/amrithaprakash" target="_blank">linkedin.com/in/amrithaprakash</a>**
 - 💻 GitHub: **<a href="https://github.com/amritha-prakash" target="_blank">github.com/amritha-prakash</a>**
